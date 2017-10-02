@@ -1,0 +1,7 @@
+public class Parents{
+  private String parent;
+  
+  public String getParent(String parent){
+    return parent;
+  }
+}
